@@ -1,0 +1,18 @@
+.first {
+  position: absolute;
+  top: 6cm;
+  left: 8cm; 
+  color: #2E475D;
+  font-size: 80px;
+  
+  }
+
+.second {
+  position: absolute;
+  top: 10cm;
+  left: 15cm;
+    color: #2E475D;
+    font-size: 20px;
+  }
+
+  
